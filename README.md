@@ -1,1 +1,2 @@
-# math-magic
+# Codeacdemy math-magic
+## Guided Project
